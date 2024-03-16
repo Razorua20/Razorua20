@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon de la Fuente</h1>
 <h3 align="center">A passionate junior frontend developer from Chile, I like to develop modern websites and learn new technologies every day. Currently, I'm expanding my knowledge in front-end development with React, and soon I will start to learn how to use Vue.js</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **simon.delafuente20@gmail.com**
 
